@@ -1,0 +1,41 @@
+.img1{
+    height: 300px;
+    width: 250px;
+}
+.container
+{
+    text-align: center;
+}
+
+#mycarousel{
+    background-color: red;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+p{
+    font-size: 20px;
+    color: aliceblue;
+}
+.menu1{
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    top: 10px;
+}
+.links{
+    float: left;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+#eagle{
+    height: 400px;
+}
+.color{
+    height: 300px;
+    
+}
+
